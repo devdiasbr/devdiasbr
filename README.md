@@ -19,17 +19,17 @@ Possuo boa comunicação interpessoal, facilidade de aprendizado e proatividade.
 
 ## 💻 Linguagens de Programação e Ferramentas
 
-| Tecnologia      | Nível            | Estrelas   |
-|-----------------|------------------|------------|
-| **Python**      | Intermediário     | ⭐⭐⭐☆☆     |
-| **Excel**       | Intermediário     | ⭐⭐⭐☆☆     |
-| **SQL**         | Intermediário     | ⭐⭐⭐☆☆     |
-| **SSMS**        | Básico            | ⭐⭐☆☆☆     |
-| **Power BI**    | Intermediário     | ⭐⭐⭐☆☆     |
-| **Power Automate** | Intermediário  | ⭐⭐⭐☆☆     |
-| **Selenium**    | Intermediário     | ⭐⭐⭐☆☆     |
-| **VBA**         | Básico            | ⭐⭐☆☆☆     |
-| **Networking**  | Básico            | ⭐⭐☆☆☆     |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) | ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) |
+| :---: | :---: | :---: |
+| ⭐⭐⭐☆☆ | ⭐⭐⭐☆☆ | ⭐⭐⭐☆☆ |
+
+| ![SSMS](https://img.shields.io/badge/-SSMS-CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white) | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black) | ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=Power-Automate&logoColor=white) |
+| :---: | :---: | :---: |
+| ⭐⭐☆☆☆ | ⭐⭐⭐☆☆ | ⭐⭐⭐☆☆ |
+
+| ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white) | ![VBA](https://img.shields.io/badge/-VBA-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white) | ![Networking](https://img.shields.io/badge/-Networking-006699?style=flat-square&logo=Cisco&logoColor=white) |
+| :---: | :---: | :---: |
+| ⭐⭐⭐☆☆ | ⭐⭐☆☆☆ | ⭐⭐☆☆☆ |
 
 ---
 
