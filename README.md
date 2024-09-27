@@ -35,8 +35,8 @@ Possuo boa comunicação interpessoal, facilidade de aprendizado e proatividade.
 
 ## 🎓 Formação Acadêmica
 
-- 🖥️ **Análise e Desenvolvimento de Sistemas** - FAM (2020)
-- 🗄️ **Banco de Dados** - Faculdade Impacta
+- 🖥️ **Análise e Desenvolvimento de Sistemas** - Faculdade das Américas - FAM (2020)
+- 🗄️ **Banco de Dados** - Faculdade Impacta de Tecnologia - FIT (2023)
 
 ---
 
